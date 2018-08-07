@@ -7,7 +7,7 @@ def count_elements(array)
   
   array.collect do |animal|
     #binding.pry
-      if 
+      
       
   end
   new_hash
